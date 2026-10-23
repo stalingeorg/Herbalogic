@@ -175,7 +175,6 @@ p:last-child {
   cursor: pointer;
   border: 1px solid transparent;
   transition: all var(--transition-normal);
-  white-space: nowrap;
 }
 
 .btn-primary {
@@ -255,7 +254,7 @@ p:last-child {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 1rem 0;
+  padding: 1rem;
 }
 
 .hl-brand {
